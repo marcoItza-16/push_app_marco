@@ -11,6 +11,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text('HomePage'),
+        //Iniciando app y configuración con firebase
         ),
     );
   }
